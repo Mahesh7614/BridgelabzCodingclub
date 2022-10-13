@@ -1,0 +1,24 @@
+step 1 :
+
+       Filter only Java files from All Files
+
+       example :: a1.java a2.java a3.java
+
+       Done
+
+step 2 :
+
+       Find a name of that Java files
+
+       example :: a1 a2 a3
+
+step 3 :
+
+       Create a folder with same name as java files name
+
+       example :: a1/ a2/ a3/
+
+step 4 :
+
+        Copy a java file and paste into a specific java folder
+

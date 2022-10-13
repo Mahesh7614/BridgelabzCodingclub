@@ -1,0 +1,34 @@
+Step 1 :
+       Create a folder with name as Backup. within Backup create a sub-folder with name as Main.
+       example :: Backup/Main  
+
+Step 2 :
+       Filter the files according to their extensions. 
+       example :: add.java, sub.py, multiply.js, division.html
+
+Step 3 :
+       Find the extension name of that files.
+       example :: java, py, js, html
+
+Step 4 :
+	 Create a sub-folders with the same name as files extension name in the Backup/Main folder.
+	 example :: java/, py/, js/, html/
+
+Step 5 : 
+	 Find the file name of that files.
+	 example :: add, sub, multiply, division
+
+Step 6 :
+	 Create a sub-folders of that files with the name of their file name in the sub-folders of Backup/Main folder according to their extension name folder.
+	 example :: Backup/Main/java/add/
+			Backup/Main/py/sub/
+			Backup/Main/js/multiply/
+			Backup/Main/html/division/
+
+Step 7 : 
+       Move thease files in the sub-folders according to their file name folders. The folders are present in the Backup/Main according to their extension name folder.
+	 example :: Backup/Main/java/add/add.java
+			Backup/Main/py/sub/sub.py
+			Backup/Main/js/multiply/multiply.js
+			Backup/Main/html/division/division.html
+	  
